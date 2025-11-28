@@ -40,26 +40,6 @@ This project demonstrates React **state**, **props**, **hooks**, and **API integ
 ## API Used
 
 ### **OpenWeatherMap – Current Weather API**
-
-
-
-## Screenshots
-
-### Vercel Deployed
-![Vercel Deployment](https://github.com/user-attachments/assets/28513f7d-505c-44de-949e-8d94e25c5e89)
-
-### Vercel – Search “Toronto”
-![Vercel Search Toronto](https://github.com/user-attachments/assets/d6851374-752d-4b77-a8d3-df51d48a93f9)
-
-### Localhost (npm start)
-![Localhost App](https://github.com/user-attachments/assets/3c50e1f1-1666-4c1e-b943-533ec60d84b8)
-
-### Postman API Test
-![Postman Screenshot](https://github.com/user-attachments/assets/2c2197db-1374-48bb-b9b4-bc84a5c5daa0)
-
-Endpoint used:
-
-```text
 https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}&units=metric
 
 
@@ -103,8 +83,18 @@ Live Demo (Vercel)
 https://101516423-comp3123-labtest2.vercel.app/
 
 
+## Screenshots
 
+### Vercel Deployed
+![Vercel Deployment](https://github.com/user-attachments/assets/28513f7d-505c-44de-949e-8d94e25c5e89)
 
+### Vercel – Search “Toronto”
+![Vercel Search Toronto](https://github.com/user-attachments/assets/d6851374-752d-4b77-a8d3-df51d48a93f9)
 
+### Localhost (npm start)
+![Localhost App](https://github.com/user-attachments/assets/3c50e1f1-1666-4c1e-b943-533ec60d84b8)
+
+### Postman API Test
+![Postman Screenshot](https://github.com/user-attachments/assets/2c2197db-1374-48bb-b9b4-bc84a5c5daa0)
 
 End of README
