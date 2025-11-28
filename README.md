@@ -87,7 +87,7 @@ Live Demo (Vercel)
 https://101516423-comp3123-labtest2.vercel.app/
 
 Screenshots
-<img width="960" height="531" alt="Screenshot 2025-11-27 194244" src="https://github.com/user-attachments/assets/28513f7d-505c-44de-949e-8d94e25c5e89" />
+<src="https://github.com/user-attachments/assets/28513f7d-505c-44de-949e-8d94e25c5e89"/>
 
 <img width="960" height="504" alt="Screenshot 2025-11-27 195017" src="https://github.com/user-attachments/assets/d6851374-752d-4b77-a8d3-df51d48a93f9" />
 
