@@ -86,17 +86,20 @@ http://localhost:3000
 Live Demo (Vercel)
 https://101516423-comp3123-labtest2.vercel.app/
 
-Screenshots
-<src="https://github.com/user-attachments/assets/28513f7d-505c-44de-949e-8d94e25c5e89"/>
+## Screenshots
 
-<img width="960" height="504" alt="Screenshot 2025-11-27 195017" src="https://github.com/user-attachments/assets/d6851374-752d-4b77-a8d3-df51d48a93f9" />
+### Vercel Deployed
+![Vercel Deployment](https://github.com/user-attachments/assets/28513f7d-505c-44de-949e-8d94e25c5e89)
 
-Local 3000
-<img width="960" height="468" alt="Screenshot 2025-11-27 195041" src="https://github.com/user-attachments/assets/3c50e1f1-1666-4c1e-b943-533ec60d84b8" />
+### Vercel – Search “Toronto”
+![Vercel Search Toronto](https://github.com/user-attachments/assets/d6851374-752d-4b77-a8d3-df51d48a93f9)
 
-postman
+### Localhost (npm start)
+![Localhost App](https://github.com/user-attachments/assets/3c50e1f1-1666-4c1e-b943-533ec60d84b8)
 
-<img width="960" height="566" alt="Screenshot 2025-11-27 194537" src="https://github.com/user-attachments/assets/2c2197db-1374-48bb-b9b4-bc84a5c5daa0" />
+### Postman API Test
+![Postman Screenshot](https://github.com/user-attachments/assets/2c2197db-1374-48bb-b9b4-bc84a5c5daa0)
+
 
 
 
