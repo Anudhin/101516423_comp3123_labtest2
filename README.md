@@ -56,27 +56,9 @@ Install dependencies:
 
 npm install
 
-
-Add your API key
-Open:
-
-src/services/weatherApi.js
-
-
-Replace:
-
-const API_KEY = 'YOUR_API_KEY_HERE';
-
-
-with your real API key.
-
-Start the development server:
-
 npm start
 
-
 Open the browser:
-
 http://localhost:3000
 
 Live Demo (Vercel)
