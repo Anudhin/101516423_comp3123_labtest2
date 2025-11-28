@@ -87,6 +87,17 @@ Live Demo (Vercel)
 https://101516423-comp3123-labtest2.vercel.app/
 
 Screenshots
+<img width="960" height="531" alt="Screenshot 2025-11-27 194244" src="https://github.com/user-attachments/assets/28513f7d-505c-44de-949e-8d94e25c5e89" />
+
+<img width="960" height="504" alt="Screenshot 2025-11-27 195017" src="https://github.com/user-attachments/assets/d6851374-752d-4b77-a8d3-df51d48a93f9" />
+
+Local 3000
+<img width="960" height="468" alt="Screenshot 2025-11-27 195041" src="https://github.com/user-attachments/assets/3c50e1f1-1666-4c1e-b943-533ec60d84b8" />
+
+postman
+
+<img width="960" height="566" alt="Screenshot 2025-11-27 194537" src="https://github.com/user-attachments/assets/2c2197db-1374-48bb-b9b4-bc84a5c5daa0" />
+
 
 
 End of README
