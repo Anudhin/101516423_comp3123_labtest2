@@ -84,11 +84,9 @@ Open the browser:
 http://localhost:3000
 
 Live Demo (Vercel)
-
-(Add link here after deployment)
+https://101516423-comp3123-labtest2.vercel.app/
 
 Screenshots
 
-(Add screenshots directly by dragging images into the README on GitHub.)
 
 End of README
